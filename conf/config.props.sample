@@ -65,10 +65,10 @@ orcl1.MaxWait=100
 orcl1.MaxIdle=1
 orcl1.QueryListFile=./conf/query.props
 
-orcl2.Url=jdbc:oracle:thin:@192.168.0.73:1521:app2
-orcl2.User=zabbix
-orcl2.Password=pwd
-orcl2.MaxActive=10
-orcl2.MaxWait=100
-orcl2.MaxIdle=1
-orcl2.QueryListFile=./conf/query_xxx.props
+#orcl2.Url=jdbc:oracle:thin:@192.168.0.73:1521:app2
+#orcl2.User=zabbix
+#orcl2.Password=pwd
+#orcl2.MaxActive=10
+#orcl2.MaxWait=100
+#orcl2.MaxIdle=1
+#orcl2.QueryListFile=./conf/query_xxx.props
